@@ -1,0 +1,15 @@
+{
+    "name": "Israel Shekel",
+    "symbol": "ISRAEL",
+    "uri": "https://i.ibb.co/1Tbwskh/israel.jpg",
+    "seller_fee_basis_points": 500,
+    "creators": [
+      {
+        "address": "Dp1y2tbVp8gZbo1a8Vou4C14LcS9Ne4VM5CbRaGxumz9",
+        "share": 100
+      }
+    ],
+    "decimals": 18,
+    "logo": "https://i.ibb.co/1Tbwskh/israel.jpg"
+  }
+  
