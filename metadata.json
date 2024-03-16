@@ -1,15 +1,15 @@
-{
-    "name": "Israel Shekel",
+  {
+    "name": "ISRAEL",
     "symbol": "ISRAEL",
-    "uri": "https://github.com/csa1234/solana-token/blob/main/metadata.json",
+    "uri": "https://yourwebsite.com/path/to/your/metadata.json",
     "seller_fee_basis_points": 500,
     "creators": [
       {
-        "address": "Dp1y2tbVp8gZbo1a8Vou4C14LcS9Ne4VM5CbRaGxumz9",
+        "address": "Your_Creator_Address",
+        "verified": false,
         "share": 100
       }
     ],
-    "decimals": 18,
-    "logo": "https://i.ibb.co/1Tbwskh/israel.jpg"
+    "image": "https://i.ibb.co/1Tbwskh/israel.jpg"
   }
   
