@@ -1,11 +1,11 @@
   {
     "name": "ISRAEL",
     "symbol": "ISRAEL",
-    "uri": "https://yourwebsite.com/path/to/your/metadata.json",
+    "uri": "https://raw.githubusercontent.com/csa1234/solana-token/main/metadata.json",
     "seller_fee_basis_points": 500,
     "creators": [
       {
-        "address": "Your_Creator_Address",
+        "address": "Dp1y2tbVp8gZbo1a8Vou4C14LcS9Ne4VM5CbRaGxumz9",
         "verified": false,
         "share": 100
       }
